@@ -1,0 +1,29 @@
+
+body {
+  background: #FFFFFF;
+  color: #5C9EAD;
+  font-family: "Comfortaa", sans-serif;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+h1, h2 {
+  color: #326273;
+  font-family: "Commissioner", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+a {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E39774;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 0 auto;
+}
